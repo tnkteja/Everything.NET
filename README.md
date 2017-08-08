@@ -13,3 +13,19 @@ Lets just say its easy to comprehend what windows people does in an adhoc way, r
 so I decided, dont pursue it, but keep in touch with it like you keep a constant tocuh of your self.
 
 So finally in all fairness, I will try to tie together, what they are doing with impresssion from the outside world.
+
+## Some cool things I learned about
+
+These are the things i make sure I got installed. I mean extensions.
+
+### Extensions
+
+#### 1. Web Extensions
+
+needless to say it is cool. somehow goto the 
+```
+1. Right click project (RCP)
+2. Add -> Add New Item
+3. Online extensions -> Web Extensions
+INSTALL <<BAM>>
+```
