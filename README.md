@@ -34,3 +34,6 @@ INSTALL <<BAM>>
 
 Well does what it says .. nests or groups same kind of files into folders.
 
+```
+Sometime you get extension suggestions for you
+```
