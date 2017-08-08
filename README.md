@@ -14,6 +14,8 @@ so I decided, dont pursue it, but keep in touch with it like you keep a constant
 
 So finally in all fairness, I will try to tie together, what they are doing with impresssion from the outside world.
 
+ADO.NET Data model is a overall model for the entity models underneath. The thing is watchout for the  model - model conundrum, both are not the same.
+
 ## Some cool things I learned about
 
 These are the things i make sure I got installed. I mean extensions.
