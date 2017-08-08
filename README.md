@@ -29,3 +29,8 @@ needless to say it is cool. somehow goto the
 3. Online extensions -> Web Extensions
 INSTALL <<BAM>>
 ```
+
+#### 2. File nesting extensions ( Should already be there in 17)
+
+Well does what it says .. nests or groups same kind of files into folders.
+
