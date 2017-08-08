@@ -11,3 +11,5 @@ Lets just say its easy to comprehend what windows people does in an adhoc way, r
 > Learning human history is boring. AHA imagine learning history about asp.net, it is as dry as it gets. hufewww.
 
 so I decided, dont pursue it, but keep in touch with it like you keep a constant tocuh of your self.
+
+So finally in all fairness, I will try to tie together, what they are doing with impresssion from the outside world.
